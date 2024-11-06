@@ -1,7 +1,13 @@
 # Modern-Animation-Using-GSAP & Lenis
 You should try this animation atleast once. I had included CDN's for GSAP, and Lenis.
 GSAP -> It is the very powerfull animation JavaScript library.
-Lenis -> An open source platform which you can use it for smooth scrolling.
+Lenis -> An open source platform which you can use it for smooth scrolling.<br />
+
+# Steps :
+<ul>
+  <li>Unzip the folder</li>
+  <li>Open the HTML file</li>
+</ul>
 
 # Scroll to see Animation
 
